@@ -1,4 +1,4 @@
-# libmssys - Patch ms-sys source package to shared library
+# libmsys - Patch ms-sys source package to shared library
 
 How to build:
 
@@ -12,5 +12,5 @@ How to build:
 
 To use library:
 
-* Include libmssys.h
+* Include libmsys.h
 * Build with -lmsys cflag
